@@ -9,18 +9,18 @@
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin_gv_bboukhriss</sys_created_by>
-        <sys_created_on>2022-12-01 23:43:43</sys_created_on>
-        <sys_id>8fdc058147671510111a7af3836d438e</sys_id>
+        <sys_created_on>2022-12-01 23:46:25</sys_created_on>
+        <sys_id>a27d81c147671510111a7af3836d4357</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>subtype_outdoor</sys_name>
         <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
         <sys_policy/>
         <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_8fdc058147671510111a7af3836d438e</sys_update_name>
+        <sys_update_name>catalog_ui_policy_action_a27d81c147671510111a7af3836d4357</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-12-01 23:45:10</sys_updated_on>
+        <sys_updated_on>2022-12-01 23:48:24</sys_updated_on>
         <table/>
-        <ui_policy display_value="Show the Subtype outdoor if Type is outdoor">cfdc058147671510111a7af3836d4367</ui_policy>
+        <ui_policy display_value="Show the Subtype outdoor if Type is outdoor">2a7d81c147671510111a7af3836d4355</ui_policy>
         <variable>subtype_outdoor</variable>
         <variable_set/>
         <visible>true</visible>

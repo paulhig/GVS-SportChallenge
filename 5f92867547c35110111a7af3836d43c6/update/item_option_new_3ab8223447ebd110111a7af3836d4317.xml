@@ -74,7 +74,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin_gv_bboukhriss</sys_created_by>
-        <sys_created_on>2022-12-02 06:54:20</sys_created_on>
+        <sys_created_on>2022-12-02 06:58:31</sys_created_on>
         <sys_id>3ab8223447ebd110111a7af3836d4317</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Select outdoor activity</sys_name>
@@ -83,7 +83,7 @@
         <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
         <sys_update_name>item_option_new_3ab8223447ebd110111a7af3836d4317</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-12-02 06:54:53</sys_updated_on>
+        <sys_updated_on>2022-12-02 06:58:56</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

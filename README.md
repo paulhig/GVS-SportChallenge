@@ -1,1 +1,1 @@
-# -GVS-Sport-Challenge
+# GVS-SportChallenge

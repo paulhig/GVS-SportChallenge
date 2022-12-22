@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_definition">
+    <asmt_metric_definition action="INSERT_OR_UPDATE">
+        <display>Dissatisfied</display>
+        <metric display_value="How satisfied are you with the Sport Challenge Application?">021abb1847771110111a7af3836d4345</metric>
+        <normalization_input>0</normalization_input>
+        <order>1</order>
+        <selected_image/>
+        <sys_class_name>asmt_metric_definition</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>921abb1847771110111a7af3836d4366</sys_id>
+        <sys_name>Dissatisfied</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>asmt_metric_definition_921abb1847771110111a7af3836d4366</sys_update_name>
+        <unselected_image/>
+        <value>2</value>
+    </asmt_metric_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=921abb1847771110111a7af3836d4366"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes/>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1382</size_bytes>
+        <size_compressed>697</size_compressed>
+        <state/>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>561abb1847771110111a7af3836d4368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-12 14:40:51</sys_updated_on>
+        <table_name>ZZ_YYasmt_metric_definition</table_name>
+        <table_sys_id>921abb1847771110111a7af3836d4366</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="561abb1847771110111a7af3836d4368">561abb1847771110111a7af3836d4368</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>1e1abb1847771110111a7af3836d4368</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>hVTbattAEH22v2K7fSrsrvemm2slNKaEQAoFQ16LI29kEVUyknxJvr4zq7XbQtqApJmdy845M4MW16efNTm4rq/aJqdKSEpcU7Sbqilzuh+eeEqvr6aLD5yTW9e4bj203Zx82bSPjtzV9b4fvImoTGihGFk93JKvp13bDeR7vS/5XUOENz6MNeYkFlKSm31Vb4j8RAjncH1/KP8EoSipNjm9X7+47gccAGPT53Q7DLv5bHY8HsXRiLYrZ1pKOYPkEDI/1VXz/FagyrJs5r0QmlO5O1HyMsrphByrzbDNaeTNW1eV2+F8OlTueNNiCpEkwoeSfnipXU5ds36sHX9cF89l1+6bzbxxR3KJ++xBzfvduoDgXed61x0cBbbl1XSy2K2HLQGS33QqEqYSEdUWFFNIoZmEVkph2ajHKAt/Bi3haFXwjcBmUKKfK3ghBmRcc7iKm4KPfrTHQWbwqulk4n1Y55IPNzO8k49FTZCYiGCyJQA1AJSBjBCwYRfor5Q8VXWd049Pcbq2ks7+oqisyJgeAStPQvsvACjOug11PNB6xP8bBXqxHRHCLEbYkB2I4SkLpFQgbcOb8EDKBGfs0zLk7vvEfJ+iQDnxnbUMurgE2AZhQ7ctpGlvP1N5h7KGC5dKjeRYUHTUew2c/ul1xIOB62hlUpH6KCZfCd5gk6XSUM8CSGYS6A/giVbehhozvdYsQ0Rwh4YOrHwUxPvs9zHqTNj7IAuufU+t77TlMRKHxePaDyblloHGI2iFgSGEyeiwSFGQaR/myMIZ5xJCWegzmlHW0i+A8QtwXrQULyo0SA3TiGEqFoFgJVC2EFQYHB9LcA2hDroYjOpfVQDAfwqNDM4bf16DtD9vS9icdGkMEvfTysTYMRY691afF7MSP/Bzupr+AkQTLFVmBQAA
+		</data>
+        <length>916</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="561abb1847771110111a7af3836d4368">561abb1847771110111a7af3836d4368</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>9e1abb1847771110111a7af3836d4368</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes/>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image_selected</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1222</size_bytes>
+        <size_compressed>651</size_compressed>
+        <state/>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>121abb1847771110111a7af3836d4369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-12 14:40:51</sys_updated_on>
+        <table_name>ZZ_YYasmt_metric_definition</table_name>
+        <table_sys_id>921abb1847771110111a7af3836d4366</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image_selected" sys_id="121abb1847771110111a7af3836d4369">121abb1847771110111a7af3836d4369</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>d61abb1847771110111a7af3836d4369</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>lVPLbtswEDzHX8GypwIkTVJvN0rQGEUQoAEKBMi1UGTFFqJKhiQ/kq/vLEUZPfRSWPIul7M7O0vq+vb8u2HHqh/qrs25UZqzqi27Td1uc34YX2XKb28W15+kZPdVW/XF2PUr9m3TvVTsoWkOw+hCzGTKKiPY0/M9+37ed/3IfjaHrXxomXLB54ljxWKlNbs71M2G6S+MSYnyw3H7dxOGs3qT8x/Fe9X/wgI9tkPOd+O4Xy2Xp9NJnQLV9dul1Vovkewhq3NTt2//Aposy5ZuF9Cc6/2Zs/fJLq7Yqd6Mu5xHLryr6u1unFfHujrddZTCNIvo4WwY35sq51VbvDSVfCnKt23fHdrNqq1O7IL76ppaDfuiBHjfV0PVHysOtfti3DHoe7SR0GtjlBUaP+/YaHAeNt0z2Ej6gLTRU5Cq1KGE/mCPNlWhMJFKS62s1CoQWoWwIWwCGy2usBPAM4jExKMyvKYJVSIC7KGOy0oEIVBMxSXgVkxpSFHgp38flhODoU2KNBKlZAAiOaVYj6A3wpus0aUVJkZ174lL39BgQvIRaFwh3y81EHubEV859elaEVM8EbNC61XYSaVDZaWXPZejZig1cS1DvY8bPzDr9VqfeNGLyrM440UR1g94bQKaXkYqAkwXUrCcRUFgECMaXMZqfRtULiXbaF/fkcWeJaVIKS1oLBaYHroOpKFEODuC0dCJUssEJQ2dFJUJJwn/SzZ4jZG36eCPec4HHa6HxCsCoCyYI6whv7Sufgg8XdUYvLA7OraQ+IWbCRC4yUjyJzaf2nwH03WQIBhEiMAz5KXCj++Ds9e6aXL++TVOi1DzJT4l+vhvFn8A4s/UusYEAAA=
+		</data>
+        <length>856</length>
+        <position>1</position>
+        <sys_attachment display_value="image_selected" sys_id="121abb1847771110111a7af3836d4369">121abb1847771110111a7af3836d4369</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>5a1abb1847771110111a7af3836d4369</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes/>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>selected_image</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1222</size_bytes>
+        <size_compressed>651</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>da1abb1847771110111a7af3836d4369</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-12 14:40:51</sys_updated_on>
+        <table_name>ZZ_YYasmt_metric_definition</table_name>
+        <table_sys_id>921abb1847771110111a7af3836d4366</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="selected_image" sys_id="da1abb1847771110111a7af3836d4369">da1abb1847771110111a7af3836d4369</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>921abb1847771110111a7af3836d436a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>lVPLbtswEDzHX8GypwIkTVJvN0rQGEUQoAEKBMi1UGTFFqJKhiQ/kq/vLEUZPfRSWPIul7M7O0vq+vb8u2HHqh/qrs25UZqzqi27Td1uc34YX2XKb28W15+kZPdVW/XF2PUr9m3TvVTsoWkOw+hCzGTKKiPY0/M9+37ed/3IfjaHrXxomXLB54ljxWKlNbs71M2G6S+MSYnyw3H7dxOGs3qT8x/Fe9X/wgI9tkPOd+O4Xy2Xp9NJnQLV9dul1Vovkewhq3NTt2//Aposy5ZuF9Cc6/2Zs/fJLq7Yqd6Mu5xHLryr6u1unFfHujrddZTCNIvo4WwY35sq51VbvDSVfCnKt23fHdrNqq1O7IL76ppaDfuiBHjfV0PVHysOtfti3DHoe7SR0GtjlBUaP+/YaHAeNt0z2Ej6gLTRU5Cq1KGE/mCPNlWhMJFKS62s1CoQWoWwIWwCGy2usBPAM4jExKMyvKYJVSIC7KGOy0oEIVBMxSXgVkxpSFHgp38flhODoU2KNBKlZAAiOaVYj6A3wpus0aUVJkZ174lL39BgQvIRaFwh3y81EHubEV859elaEVM8EbNC61XYSaVDZaWXPZejZig1cS1DvY8bPzDr9VqfeNGLyrM440UR1g94bQKaXkYqAkwXUrCcRUFgECMaXMZqfRtULiXbaF/fkcWeJaVIKS1oLBaYHroOpKFEODuC0dCJUssEJQ2dFJUJJwn/SzZ4jZG36eCPec4HHa6HxCsCoCyYI6whv7Sufgg8XdUYvLA7OraQ+IWbCRC4yUjyJzaf2nwH03WQIBhEiMAz5KXCj++Ds9e6aXL++TVOi1DzJT4l+vhvFn8A4s/UusYEAAA=
+		</data>
+        <length>856</length>
+        <position>1</position>
+        <sys_attachment display_value="selected_image" sys_id="da1abb1847771110111a7af3836d4369">da1abb1847771110111a7af3836d4369</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>161abb1847771110111a7af3836d436a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes/>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>unselected_image</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1382</size_bytes>
+        <size_compressed>697</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>961abb1847771110111a7af3836d436a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2022-12-13 11:11:19</sys_updated_on>
+        <table_name>ZZ_YYasmt_metric_definition</table_name>
+        <table_sys_id>921abb1847771110111a7af3836d4366</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="unselected_image" sys_id="961abb1847771110111a7af3836d436a">961abb1847771110111a7af3836d436a</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>5e1abb1847771110111a7af3836d436a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>hVTbattAEH22v2K7fSrsrvemm2slNKaEQAoFQ16LI29kEVUyknxJvr4zq7XbQtqApJmdy845M4MW16efNTm4rq/aJqdKSEpcU7Sbqilzuh+eeEqvr6aLD5yTW9e4bj203Zx82bSPjtzV9b4fvImoTGihGFk93JKvp13bDeR7vS/5XUOENz6MNeYkFlKSm31Vb4j8RAjncH1/KP8EoSipNjm9X7+47gccAGPT53Q7DLv5bHY8HsXRiLYrZ1pKOYPkEDI/1VXz/FagyrJs5r0QmlO5O1HyMsrphByrzbDNaeTNW1eV2+F8OlTueNNiCpEkwoeSfnipXU5ds36sHX9cF89l1+6bzbxxR3KJ++xBzfvduoDgXed61x0cBbbl1XSy2K2HLQGS33QqEqYSEdUWFFNIoZmEVkph2ajHKAt/Bi3haFXwjcBmUKKfK3ghBmRcc7iKm4KPfrTHQWbwqulk4n1Y55IPNzO8k49FTZCYiGCyJQA1AJSBjBCwYRfor5Q8VXWd049Pcbq2ks7+oqisyJgeAStPQvsvACjOug11PNB6xP8bBXqxHRHCLEbYkB2I4SkLpFQgbcOb8EDKBGfs0zLk7vvEfJ+iQDnxnbUMurgE2AZhQ7ctpGlvP1N5h7KGC5dKjeRYUHTUew2c/ul1xIOB62hlUpH6KCZfCd5gk6XSUM8CSGYS6A/giVbehhozvdYsQ0Rwh4YOrHwUxPvs9zHqTNj7IAuufU+t77TlMRKHxePaDyblloHGI2iFgSGEyeiwSFGQaR/myMIZ5xJCWegzmlHW0i+A8QtwXrQULyo0SA3TiGEqFoFgJVC2EFQYHB9LcA2hDroYjOpfVQDAfwqNDM4bf16DtD9vS9icdGkMEvfTysTYMRY691afF7MSP/Bzupr+AkQTLFVmBQAA
+		</data>
+        <length>916</length>
+        <position>1</position>
+        <sys_attachment display_value="unselected_image" sys_id="961abb1847771110111a7af3836d436a">961abb1847771110111a7af3836d436a</sys_attachment>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:40:51</sys_created_on>
+        <sys_id>de1abb1847771110111a7af3836d436a</sys_id>
+    </sys_attachment_doc>
+</record_update>

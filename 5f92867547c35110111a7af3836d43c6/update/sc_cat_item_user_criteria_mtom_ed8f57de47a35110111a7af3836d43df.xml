@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Report issue with the Sport Challenge application">8f7a738247a71110111a7af3836d4365</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-06 07:36:54</sys_created_on>
+        <sys_id>ed8f57de47a35110111a7af3836d43df</sys_id>
+        <sys_name>Report issue with the Sport Challenge application.GVS_SPORT Incident availability</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_ed8f57de47a35110111a7af3836d43df</sys_update_name>
+        <user_criteria display_value="GVS_SPORT Incident availability">004f5bde47a35110111a7af3836d4310</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

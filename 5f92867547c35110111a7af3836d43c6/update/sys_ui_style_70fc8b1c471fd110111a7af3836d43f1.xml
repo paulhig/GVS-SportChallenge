@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>state</element>
+        <name>x_933239_gvs_sport_sport_challenge</name>
+        <style>background-color:yellow</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-11-17 14:52:59</sys_created_on>
+        <sys_id>70fc8b1c471fd110111a7af3836d43f1</sys_id>
+        <sys_name>x_933239_gvs_sport_sport_challenge</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_ui_style_70fc8b1c471fd110111a7af3836d43f1</sys_update_name>
+        <value>in_progress</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=70fc8b1c471fd110111a7af3836d43f1"/>
+</record_update>

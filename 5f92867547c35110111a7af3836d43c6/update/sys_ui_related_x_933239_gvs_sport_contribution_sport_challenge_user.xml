@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_933239_gvs_sport_contribution" version="2" view="gvs_sport_user">
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Contribution - GVS SPORT User</calculated_name>
+            <filter/>
+            <name>x_933239_gvs_sport_contribution</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-16 12:00:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28db558847d79110111a7af3836d4377</sys_id>
+            <sys_name>Contribution - Sport challenge user</sys_name>
+            <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+            <sys_update_name>sys_ui_related_x_933239_gvs_sport_contribution_sport_challenge_user</sys_update_name>
+            <sys_user/>
+            <view display_value="GVS SPORT User" name="gvs_sport_user">e94648a747471110111a7af3836d4331</view>
+            <view_name/>
+        </sys_ui_related_list>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Contribution - GVS SPORT User</calculated_name>
+            <filter/>
+            <name>x_933239_gvs_sport_contribution</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-16 12:00:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28db558847d79110111a7af3836d4377</sys_id>
+            <sys_name>Contribution - Sport challenge user</sys_name>
+            <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+            <sys_update_name>sys_ui_related_x_933239_gvs_sport_contribution_sport_challenge_user</sys_update_name>
+            <sys_user/>
+            <view display_value="GVS SPORT User" name="gvs_sport_user">e94648a747471110111a7af3836d4331</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

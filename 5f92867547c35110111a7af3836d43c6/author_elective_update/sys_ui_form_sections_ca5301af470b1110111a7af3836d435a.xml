@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="ca5301af470b1110111a7af3836d435a" sys_domain="global" table="x_933239_gvs_sport_sport_challenge" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_933239_gvs_sport_sport_challenge</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-14 20:55:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca5301af470b1110111a7af3836d435a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_933239_gvs_sport_sport_challenge</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ca5301af470b1110111a7af3836d435a</sys_update_name>
+            <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+            <sys_updated_on>2022-11-14 20:55:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="">ca5301af470b1110111a7af3836d4354</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>sys_ui_form_sections_ca5301af470b1110111a7af3836d435a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="ca5301af470b1110111a7af3836d435a" sys_domain="global" table="x_933239_gvs_sport_sport_challenge" version="3"><sys_ui_form action="INSERT_OR_UPDATE"><name>x_933239_gvs_sport_sport_challenge</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-11-14 20:55:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ca5301af470b1110111a7af3836d435a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_933239_gvs_sport_sport_challenge</sys_name><sys_overrides/><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>sys_ui_form_sections_ca5301af470b1110111a7af3836d435a</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-11-14 20:55:33</sys_updated_on><sys_user/><view display_value="">ca5301af470b1110111a7af3836d4354</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>968940920</payload_hash>
+        <record_name>Sport Challenge</record_name>
+        <reverted_from/>
+        <source>1792867547c35110111a7af3836d43c9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-11-16 10:05:28</sys_created_on>
+        <sys_id>f2b1454047979110111a7af3836d436d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847fe695b10000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-11-16 10:05:28</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>fab145404e979110a0561797da9a866c</update_guid>
+        <update_guid_history>fab145404e979110a0561797da9a866c:968940920,32b14540129791100923f825e52da861:-857531513,465301af6d0b111099c71962c75c7078:806064404,c25301af040b1110ffbc3eb63207685c:-275089858</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-11-16 10:05:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>bd5d1e8f2218456690dab8f5abb3de21</sys_id>
+        <sys_metadata>ca5301af470b1110111a7af3836d435a</sys_metadata>
+        <sys_name>x_933239_gvs_sport_sport_challenge</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent display_value="Sport Challenge">b4a4a10247439110111a7af3836d4399</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_ca5301af470b1110111a7af3836d435a</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_ca5301af470b1110111a7af3836d435a">f2b1454047979110111a7af3836d436d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

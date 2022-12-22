@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="DELETE">
+        <action_name/>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition/>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>true</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style>primary</form_style>
+        <format_for_configurable_workspace>false</format_for_configurable_workspace>
+        <hint>Creates an incident directly from the Sport Challenge record</hint>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style>primary</list_style>
+        <messages/>
+        <name>Create sport challenge incident</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[var url = gs.getProperty('x_933239_gvs_sport.Incident');
+
+action.setRedirectURL(url);
+
+
+]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-06 13:01:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2646e0e247e75110111a7af3836d4329</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Create sport challenge incident</sys_name>
+        <sys_overrides display_value="Create Incident Task">2f605ad653123010ae50ddeeff7b1262</sys_overrides>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_ui_action_2646e0e247e75110111a7af3836d4329</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-16 04:05:20</sys_updated_on>
+        <table>x_933239_gvs_sport_sport_challenge</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>sys_ui_action_2646e0e247e75110111a7af3836d4329</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_action"&gt;&lt;sys_ui_action action="INSERT_OR_UPDATE"&gt;&lt;action_name/&gt;&lt;active&gt;true&lt;/active&gt;&lt;client&gt;false&lt;/client&gt;&lt;client_script_v2&gt;&lt;![CDATA[function onClick(g_form) {
+
+}]]&gt;&lt;/client_script_v2&gt;&lt;comments/&gt;&lt;condition/&gt;&lt;form_action&gt;true&lt;/form_action&gt;&lt;form_button&gt;true&lt;/form_button&gt;&lt;form_button_v2&gt;false&lt;/form_button_v2&gt;&lt;form_context_menu&gt;false&lt;/form_context_menu&gt;&lt;form_link&gt;true&lt;/form_link&gt;&lt;form_menu_button_v2&gt;false&lt;/form_menu_button_v2&gt;&lt;form_style&gt;primary&lt;/form_style&gt;&lt;format_for_configurable_workspace&gt;false&lt;/format_for_configurable_workspace&gt;&lt;hint&gt;Creates an incident directly from the Sport Challenge record&lt;/hint&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;list_action&gt;false&lt;/list_action&gt;&lt;list_banner_button&gt;false&lt;/list_banner_button&gt;&lt;list_button&gt;false&lt;/list_button&gt;&lt;list_choice&gt;false&lt;/list_choice&gt;&lt;list_context_menu&gt;false&lt;/list_context_menu&gt;&lt;list_link&gt;false&lt;/list_link&gt;&lt;list_save_with_form_button&gt;false&lt;/list_save_with_form_button&gt;&lt;list_style&gt;primary&lt;/list_style&gt;&lt;messages/&gt;&lt;name&gt;Create sport challenge incident&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[var url = gs.getProperty('x_933239_gvs_sport.Incident');
+
+action.setRedirectURL(url);
+
+
+]]&gt;&lt;/script&gt;&lt;show_insert&gt;true&lt;/show_insert&gt;&lt;show_multiple_update&gt;false&lt;/show_multiple_update&gt;&lt;show_query&gt;false&lt;/show_query&gt;&lt;show_update&gt;true&lt;/show_update&gt;&lt;sys_class_name&gt;sys_ui_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin_gv_bboukhriss&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-12-06 13:01:40&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;2646e0e247e75110111a7af3836d4329&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create sport challenge incident&lt;/sys_name&gt;&lt;sys_overrides display_value="Create Incident Task"&gt;2f605ad653123010ae50ddeeff7b1262&lt;/sys_overrides&gt;&lt;sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport"&gt;5f92867547c35110111a7af3836d43c6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="[GVS] Sport Challenge"&gt;5f92867547c35110111a7af3836d43c6&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_action_2646e0e247e75110111a7af3836d4329&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin_gv_bboukhriss&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-12-16 04:05:20&lt;/sys_updated_on&gt;&lt;table&gt;x_933239_gvs_sport_sport_challenge&lt;/table&gt;&lt;ui11_compatible&gt;true&lt;/ui11_compatible&gt;&lt;ui16_compatible&gt;false&lt;/ui16_compatible&gt;&lt;/sys_ui_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2083056510</payload_hash>
+        <record_name>Create sport challenge incident</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-16 04:05:20</sys_created_on>
+        <sys_id>33fe82e547379110111a7af3836d436c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185191ba5c50000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-16 04:05:20</sys_updated_on>
+        <type>UI Action</type>
+        <update_guid>7bfe82e5e13791106eaa57fd4d76e26b</update_guid>
+        <update_guid_history>7bfe82e5e13791106eaa57fd4d76e26b:-2083056510,013ece654e379110f927b705f878f29f:-1343671229,77c501222b6b511081fd801c8f4acb6d:1285297629,ee93c12adf2b5110cd1a674da90c31d4:932056670,6cb24d6ef92b51106758aa66e52c4e31:-985670172,b04478228c2b5110e58bc8e9dfab8691:-1278955192,6a2e282adee751101c64c48f5fca915b:-317275691,4fd920e262e75110e04504d694a8ec99:-395181044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-16 04:32:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_action">sys_ui_action</sys_db_object>
+        <sys_id>55e133c7eb4d46e1a0b05750e78c9031</sys_id>
+        <sys_metadata>2646e0e247e75110111a7af3836d4329</sys_metadata>
+        <sys_name>Create sport challenge incident</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent display_value="Sport Challenge">b4a4a10247439110111a7af3836d4399</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>sys_ui_action_2646e0e247e75110111a7af3836d4329</sys_update_name>
+        <sys_update_version display_value="sys_ui_action_2646e0e247e75110111a7af3836d4329">33fe82e547379110111a7af3836d436c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

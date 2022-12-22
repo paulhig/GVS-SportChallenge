@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subtype" table="x_933239_gvs_sport_sport_challenge" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subtype</element>
+            <name>x_933239_gvs_sport_sport_challenge</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-10 08:06:36</sys_created_on>
+            <sys_name>subtype</sys_name>
+            <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+            <sys_update_name>sys_choice_x_933239_gvs_sport_sport_challenge_subtype</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>indoor</dependent_value>
+            <element>subtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Climbing stairs</label>
+            <language>en</language>
+            <name>x_933239_gvs_sport_sport_challenge</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-10 08:06:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>climbing_stairs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>indoor</dependent_value>
+            <element>subtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pushup</label>
+            <language>en</language>
+            <name>x_933239_gvs_sport_sport_challenge</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-10 08:07:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>pushup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>outdoor</dependent_value>
+            <element>subtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Running</label>
+            <language>en</language>
+            <name>x_933239_gvs_sport_sport_challenge</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-10 08:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>running</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>outdoor</dependent_value>
+            <element>subtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cycling</label>
+            <language>en</language>
+            <name>x_933239_gvs_sport_sport_challenge</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+            <sys_created_on>2022-11-10 08:08:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>cycling</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

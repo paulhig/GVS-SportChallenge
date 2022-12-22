@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA GVS_SPORT Sport chal - New Tab 2">dc849c95477f1110111a7af3836d43fc</legacy_page>
+        <name>PA GVS_SPORT Sport chal - New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-15 00:31:40</sys_created_on>
+        <sys_id>54849c95477f1110111a7af3836d43fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA GVS_SPORT Sport chal - New Tab 2</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_grid_canvas_54849c95477f1110111a7af3836d43fd</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-15 00:31:40</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>sys_grid_canvas_54849c95477f1110111a7af3836d43fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA GVS_SPORT Sport chal - New Tab 2">dc849c95477f1110111a7af3836d43fc</legacy_page><name>PA GVS_SPORT Sport chal - New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-15 00:31:40</sys_created_on><sys_id>54849c95477f1110111a7af3836d43fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA GVS_SPORT Sport chal - New Tab 2</sys_name><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>sys_grid_canvas_54849c95477f1110111a7af3836d43fd</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-15 00:31:40</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>1909337067</payload_hash>
+        <record_name>PA GVS_SPORT Sport chal - New Tab 2</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-15 00:31:40</sys_created_on>
+        <sys_id>98849c95477f1110111a7af3836d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1851331abaf0000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-15 00:31:40</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>d0849c95897f1110d255241035f304fe</update_guid>
+        <update_guid_history>d0849c95897f1110d255241035f304fe:1909337067</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-15 23:33:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>487caaf7061140b493e8ff85139aa2b1</sys_id>
+        <sys_metadata>54849c95477f1110111a7af3836d43fd</sys_metadata>
+        <sys_name>PA GVS_SPORT Sport chal - New Tab 2</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_54849c95477f1110111a7af3836d43fd</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_54849c95477f1110111a7af3836d43fd">98849c95477f1110111a7af3836d43fe</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

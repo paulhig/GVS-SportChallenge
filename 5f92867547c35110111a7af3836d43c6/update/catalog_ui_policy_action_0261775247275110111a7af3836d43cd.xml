@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Report issue with the Sport Challenge application">8f7a738247a71110111a7af3836d4365</catalog_item>
+        <catalog_variable>IO:a5cc5d1a47eb1110111a7af3836d43dc</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-06 08:55:26</sys_created_on>
+        <sys_id>0261775247275110111a7af3836d43cd</sys_id>
+        <sys_name>caller_id</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0261775247275110111a7af3836d43cd</sys_update_name>
+        <table/>
+        <ui_policy display_value="GVS_SPORT Hide Caller field">2a90bfde47e35110111a7af3836d432f</ui_policy>
+        <variable>caller_id</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

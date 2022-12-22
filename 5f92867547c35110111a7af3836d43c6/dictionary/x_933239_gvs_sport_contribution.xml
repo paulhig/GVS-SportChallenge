@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="21bd6d0a47439110111a7af3836d43f2" label="Contribution" max_length="40" name="x_933239_gvs_sport_contribution" type="collection">
+        <element label="Challenge" max_length="32" name="challenge" reference="x_933239_gvs_sport_sport_challenge" type="reference"/>
+        <element display="true" label="Contribution" mandatory="true" max_length="40" name="contribution" type="integer"/>
+        <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Date" max_length="40" name="date" type="glide_date" use_dynamic_default="true"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Employee" max_length="32" name="employee" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="challenge"/>
+        </index>
+        <index name="index2">
+            <element name="employee"/>
+        </index>
+    </element>
+</database>

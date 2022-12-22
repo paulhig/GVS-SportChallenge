@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category">
+    <asmt_metric_category action="INSERT_OR_UPDATE">
+        <create_stakeholders>false</create_stakeholders>
+        <description/>
+        <details/>
+        <filter table="asmt_metric_type">sys_id=9de6b31447771110111a7af3836d43ea^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="9de6b31447771110111a7af3836d43ea"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <metric_type display_value="Sport challenge test survey">9de6b31447771110111a7af3836d43ea</metric_type>
+        <name>Sport challenge test survey</name>
+        <order>100</order>
+        <qb_evaluation_method/>
+        <roles/>
+        <scoring_type>percent</scoring_type>
+        <sys_class_name>asmt_metric_category</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-12 14:26:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9de6f75447771110111a7af3836d438b</sys_id>
+        <sys_name>Sport challenge test survey</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>asmt_metric_category_9de6f75447771110111a7af3836d438b</sys_update_name>
+        <table>asmt_metric_type</table>
+        <total_metrics>3</total_metrics>
+        <weight>10</weight>
+    </asmt_metric_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=9de6f75447771110111a7af3836d438b"/>
+</record_update>

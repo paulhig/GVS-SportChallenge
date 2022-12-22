@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ba3c2fcf47a71110111a7af3836d431a" extends="sys_import_set_row" label="GVS_SPORT Import Contribution" max_length="40" name="x_933239_gvs_sport_gvs_sport_import_contribution" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Challenge" label="Challenge" max_length="40" name="u_challenge" type="string"/>
+        <element attributes="import_attribute_name=Contribution" label="Contribution" max_length="40" name="u_contribution" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User" label="User" max_length="40" name="u_user" type="string"/>
+    </element>
+</database>

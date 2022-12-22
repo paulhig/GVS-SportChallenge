@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Propose a new sport challenge">1193041847275110111a7af3836d4359</sc_cat_item>
+        <sc_category display_value="Sport">7233c89447275110111a7af3836d4322</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-01 21:29:41</sys_created_on>
+        <sys_id>7f2eac4147e31510111a7af3836d4303</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sport.Propose a new sport challenge</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sc_cat_item_category_7f2eac4147e31510111a7af3836d4303</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-12-01 22:05:22</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>sc_cat_item_category_7f2eac4147e31510111a7af3836d4303</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Propose a new sport challenge">1193041847275110111a7af3836d4359</sc_cat_item><sc_category display_value="Sport">7233c89447275110111a7af3836d4322</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-01 21:29:41</sys_created_on><sys_id>7f2eac4147e31510111a7af3836d4303</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Sport.Propose a new sport challenge</sys_name><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>sc_cat_item_category_7f2eac4147e31510111a7af3836d4303</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2022-12-01 22:05:22</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1953044486</payload_hash>
+        <record_name>Sport.Propose a new sport challenge</record_name>
+        <reverted_from/>
+        <source>883d0d8147671510111a7af3836d4316</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-01 23:45:10</sys_created_on>
+        <sys_id>5c3d0d8147671510111a7af3836d4389</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184d0146ea10000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-12-01 23:45:10</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>903d0d8192671510b037d9469b4ebd89</update_guid>
+        <update_guid_history>903d0d8192671510b037d9469b4ebd89:-1953044486,ae56784972e31510c405de64131c4cc9:-1369562642</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sport.Propose a new sport challenge">9c3d0d8147671510111a7af3836d438d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-01 23:45:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>24abc6f0b1fd4cf586ea1647efb93a79</sys_id>
+        <sys_metadata>7f2eac4147e31510111a7af3836d4303</sys_metadata>
+        <sys_name>Sport.Propose a new sport challenge</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7f2eac4147e31510111a7af3836d4303</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7f2eac4147e31510111a7af3836d4303">5c3d0d8147671510111a7af3836d4389</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

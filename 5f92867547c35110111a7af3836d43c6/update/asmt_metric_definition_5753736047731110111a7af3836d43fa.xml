@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_definition">
+    <asmt_metric_definition action="INSERT_OR_UPDATE">
+        <display>Bad</display>
+        <metric display_value="How would you rate the Sport Challenge Application?">cbbd27e847331110111a7af3836d4389</metric>
+        <normalization_input>0</normalization_input>
+        <order>3</order>
+        <selected_image/>
+        <sys_class_name>asmt_metric_definition</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-13 08:49:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5753736047731110111a7af3836d43fa</sys_id>
+        <sys_name>Bad</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>asmt_metric_definition_5753736047731110111a7af3836d43fa</sys_update_name>
+        <unselected_image/>
+        <value>2</value>
+    </asmt_metric_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=5753736047731110111a7af3836d43fa"/>
+</record_update>

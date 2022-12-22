@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA GVS_SPORT Survey - New Tab">59fe869947375110111a7af3836d43a1</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2022-12-16 00:39:15">85df916947739110111a7af3836d4302</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-16 00:39:15</sys_created_on>
+        <sys_id>4ddf5d6947739110111a7af3836d437c</sys_id>
+        <sys_name>59fe869947375110111a7af3836d43a1</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_4ddf5d6947739110111a7af3836d437c</sys_update_name>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

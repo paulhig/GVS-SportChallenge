@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>reject</choice_action>
+        <coalesce>true</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="GVS_SPORT Import contribution">8d7bb4d747eb1110111a7af3836d4389</map>
+        <reference_value_field>number</reference_value_field>
+        <source_field>u_challenge</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_933239_gvs_sport_import_contribution</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-08 22:17:33</sys_created_on>
+        <sys_id>994cf4d747eb1110111a7af3836d433c</sys_id>
+        <sys_name>u_challenge</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_transform_entry_994cf4d747eb1110111a7af3836d433c</sys_update_name>
+        <target_field>challenge</target_field>
+        <target_table>x_933239_gvs_sport_contribution</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>

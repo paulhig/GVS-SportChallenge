@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">d8ef02e0f90211108c8bd16244dfe7d7</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-08 16:27:52</sys_created_on>
+        <sys_id>3e3c2fcf47a71110111a7af3836d4355</sys_id>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

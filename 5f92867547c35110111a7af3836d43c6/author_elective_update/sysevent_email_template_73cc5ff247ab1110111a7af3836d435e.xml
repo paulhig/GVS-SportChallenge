@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="DELETE">
+        <collection>x_933239_gvs_sport_contribution</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>Hi ${employee.first_name},</p>
+<p>The sport challenge ${challenge.name} number ${challenge.number} has been completed. Thanks for participating.</p>
+<p>Please stay activ by participating in our other sport challenges.</p>
+<p>High five from</p>
+<p>your Sport Challenge Team</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>GVS_SPORT Challenge completed TEST Contr</name>
+        <sms_alternate/>
+        <subject>The sport challenge ${name} with the number ${number} is completed</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-07 20:50:40</sys_created_on>
+        <sys_id>73cc5ff247ab1110111a7af3836d435e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>GVS_SPORT Challenge completed TEST Contr</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sysevent_email_template_73cc5ff247ab1110111a7af3836d435e</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-07 22:08:36</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>sysevent_email_template_73cc5ff247ab1110111a7af3836d435e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysevent_email_template"&gt;&lt;sysevent_email_template action="INSERT_OR_UPDATE"&gt;&lt;collection&gt;x_933239_gvs_sport_contribution&lt;/collection&gt;&lt;email_layout/&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Hi ${employee.first_name},&lt;/p&gt;
+&lt;p&gt;The sport challenge ${challenge.name} number ${challenge.number} has been completed. Thanks for participating.&lt;/p&gt;
+&lt;p&gt;Please stay activ by participating in our other sport challenges.&lt;/p&gt;
+&lt;p&gt;High five from&lt;/p&gt;
+&lt;p&gt;your Sport Challenge Team&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;GVS_SPORT Challenge completed TEST Contr&lt;/name&gt;&lt;sms_alternate/&gt;&lt;subject&gt;The sport challenge ${name} with the number ${number} is completed&lt;/subject&gt;&lt;sys_class_name&gt;sysevent_email_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin_gv_bboukhriss&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-12-07 20:50:40&lt;/sys_created_on&gt;&lt;sys_id&gt;73cc5ff247ab1110111a7af3836d435e&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;GVS_SPORT Challenge completed TEST Contr&lt;/sys_name&gt;&lt;sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport"&gt;5f92867547c35110111a7af3836d43c6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="[GVS] Sport Challenge"&gt;5f92867547c35110111a7af3836d43c6&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_template_73cc5ff247ab1110111a7af3836d435e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin_gv_bboukhriss&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-12-07 22:08:36&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;/sysevent_email_template&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-175656090</payload_hash>
+        <record_name>GVS_SPORT Challenge completed TEST Contr</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-07 22:08:36</sys_created_on>
+        <sys_id>d4a0b37647eb1110111a7af3836d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184eea22d6e0000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-07 22:08:36</sys_updated_on>
+        <type>Email Template</type>
+        <update_guid>10a0b376e1eb1110ceddcd2f9ff4ea29</update_guid>
+        <update_guid_history>10a0b376e1eb1110ceddcd2f9ff4ea29:-175656090,bd4e63b2fbeb1110dc335d6f45a61534:-564030170,50de1ff2a1ab11100f30954972b974e7:-50383312,a2ce13f235ab11109e42d59fd2c601d0:812024283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-08 09:30:17</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_template">sysevent_email_template</sys_db_object>
+        <sys_id>624747653ebb4258aebdc11df512cf90</sys_id>
+        <sys_metadata>73cc5ff247ab1110111a7af3836d435e</sys_metadata>
+        <sys_name>GVS_SPORT Challenge completed TEST Contr</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent display_value="Contribution">21bd6d0a47439110111a7af3836d43f2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>sysevent_email_template_73cc5ff247ab1110111a7af3836d435e</sys_update_name>
+        <sys_update_version display_value="sysevent_email_template_73cc5ff247ab1110111a7af3836d435e">d4a0b37647eb1110111a7af3836d4329</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

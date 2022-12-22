@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>GVS_SPORT Import Contribution</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_933239_gvs_sport_gvs_sport_import_contribution</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-08 16:27:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>473c2fcf47a71110111a7af3836d438d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GVS_SPORT Import Contribution</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_app_module_473c2fcf47a71110111a7af3836d438d</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-08 16:27:53</sys_updated_on>
+        <timeline_page/>
+        <title>GVS_SPORT Import Contribution</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>sys_app_module_473c2fcf47a71110111a7af3836d438d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>GVS_SPORT Import Contribution</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_933239_gvs_sport_gvs_sport_import_contribution</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-08 16:27:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>473c2fcf47a71110111a7af3836d438d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GVS_SPORT Import Contribution</sys_name><sys_overrides/><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>sys_app_module_473c2fcf47a71110111a7af3836d438d</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-08 16:27:53</sys_updated_on><timeline_page/><title>GVS_SPORT Import Contribution</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1309393689</payload_hash>
+        <record_name>GVS_SPORT Import Contribution</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-08 16:27:53</sys_created_on>
+        <sys_id>473c2fcf47a71110111a7af3836d4390</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184f29097790000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-08 16:27:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>8f3c2fcf0fa71110eca7948bdeffca8f</update_guid>
+        <update_guid_history>8f3c2fcf0fa71110eca7948bdeffca8f:-1309393689</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="GVS_SPORT Import Contribution">dc185193476f1110111a7af3836d43e5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-09 00:19:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>180be95970db4b208518b8b1d2656400</sys_id>
+        <sys_metadata>473c2fcf47a71110111a7af3836d438d</sys_metadata>
+        <sys_name>GVS_SPORT Import Contribution</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>sys_app_module_473c2fcf47a71110111a7af3836d438d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_473c2fcf47a71110111a7af3836d438d">473c2fcf47a71110111a7af3836d4390</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

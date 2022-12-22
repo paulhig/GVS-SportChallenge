@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_condition">
+    <asmt_condition action="DELETE">
+        <active>true</active>
+        <assessment display_value="GVS_SPORT Sport Challenge Survey">8a1abb9447771110111a7af3836d432b</assessment>
+        <assessment_record/>
+        <assessment_record_field/>
+        <business_rule display_value="Auto assessment business rule">04a8cc3447b31110111a7af3836d43cf</business_rule>
+        <condition table="x_933239_gvs_sport_sport_challenge">stateCHANGESTOnot_reached^EQ<item display_value="Not reached" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="not_reached"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Send when state is "Not reached"</description>
+        <duration>1970-01-01 00:00:00</duration>
+        <percent_random>100</percent_random>
+        <related_field_1/>
+        <related_field_2/>
+        <related_field_3/>
+        <related_field_4/>
+        <sys_class_name>asmt_condition</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-13 10:22:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44a8cc3447b31110111a7af3836d43ce</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Send when state is "Not reached"</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>asmt_condition_44a8cc3447b31110111a7af3836d43ce</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-13 11:07:50</sys_updated_on>
+        <table>x_933239_gvs_sport_sport_challenge</table>
+        <trigger_random>false</trigger_random>
+        <user_field>employees</user_field>
+    </asmt_condition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>asmt_condition_44a8cc3447b31110111a7af3836d43ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_condition"><asmt_condition action="INSERT_OR_UPDATE"><active>true</active><assessment display_value="GVS_SPORT Sport Challenge Survey">8a1abb9447771110111a7af3836d432b</assessment><assessment_record/><assessment_record_field/><business_rule display_value="Auto assessment business rule">04a8cc3447b31110111a7af3836d43cf</business_rule><condition table="x_933239_gvs_sport_sport_challenge">stateCHANGESTOnot_reached^EQ<item display_value="Not reached" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="not_reached"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description>Send when state is "Not reached"</description><duration>1970-01-01 00:00:00</duration><percent_random>100</percent_random><related_field_1/><related_field_2/><related_field_3/><related_field_4/><sys_class_name>asmt_condition</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-13 10:22:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>44a8cc3447b31110111a7af3836d43ce</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Send when state is "Not reached"</sys_name><sys_overrides/><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>asmt_condition_44a8cc3447b31110111a7af3836d43ce</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-13 11:07:50</sys_updated_on><table>x_933239_gvs_sport_sport_challenge</table><trigger_random>false</trigger_random><user_field>employees</user_field></asmt_condition></record_update>]]></payload>
+        <payload_hash>961719831</payload_hash>
+        <record_name>Send when state is "Not reached"</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-13 11:07:50</sys_created_on>
+        <sys_id>27e21cbc47b31110111a7af3836d4398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1850b2b5fe80000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-13 11:07:50</sys_updated_on>
+        <type>Trigger Condition</type>
+        <update_guid>6fe21cbcceb311106f16cf1374b5b897</update_guid>
+        <update_guid_history>6fe21cbcceb311106f16cf1374b5b897:961719831,21f0547c1cb3111016631023ac61983a:692506522,e40e04b825b311102e8a300f6df8f700:274674749,813acc7438b3111070ff2d93c3901193:-1836469637,cda90c3493b31110e2b0e9b9b6330d97:-1718823495,78c840b04eb311106bf805daf30b4971:2005156497,c8a8cc349fb3111009c323487625b3d3:329109982</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Send when state is &quot;Not reached&quot;">fc65725147f75110111a7af3836d4302</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-15 12:14:35</sys_created_on>
+        <sys_db_object display_value="" name="asmt_condition">asmt_condition</sys_db_object>
+        <sys_id>1c8572480d184ae6864271eb8b138044</sys_id>
+        <sys_metadata>44a8cc3447b31110111a7af3836d43ce</sys_metadata>
+        <sys_name>Send when state is "Not reached"</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent display_value="Sport Challenge">b4a4a10247439110111a7af3836d4399</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>asmt_condition_44a8cc3447b31110111a7af3836d43ce</sys_update_name>
+        <sys_update_version display_value="asmt_condition_44a8cc3447b31110111a7af3836d43ce">27e21cbc47b31110111a7af3836d4398</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

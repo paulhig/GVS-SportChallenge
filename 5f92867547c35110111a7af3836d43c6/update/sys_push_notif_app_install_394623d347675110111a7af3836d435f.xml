@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2022-12-09 20:15:15</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-09 10:40:19</sys_created_on>
+        <sys_id>394623d347675110111a7af3836d435f</sys_id>
+        <sys_name>3EDEDB4803A030B23273EFB83A7F05DB7E6790F7008787517FBE7972CF70182E</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_394623d347675110111a7af3836d435f</sys_update_name>
+        <sys_user_id display_value="Bouchra Boukhriss">b65c9f35474b5110111a7af3836d43f8</sys_user_id>
+        <token>3EDEDB4803A030B23273EFB83A7F05DB7E6790F7008787517FBE7972CF70182E</token>
+    </sys_push_notif_app_install>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_933239_gvs_sport.Incident</name>
+        <read_roles/>
+        <suffix>Incident</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-06 14:11:34</sys_created_on>
+        <sys_id>0cf574a2472b5110111a7af3836d431d</sys_id>
+        <sys_name>x_933239_gvs_sport.Incident</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_properties_0cf574a2472b5110111a7af3836d431d</sys_update_name>
+        <type>string</type>
+        <value>incident.do?sys_id=-1&amp;sysparm_query=category=Software^subcategory=Sport Challenge app^contact_type=Self-service^caller_id=javascript:gs.getUserID()&#13;
+&#13;
+&#13;
+</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=0cf574a2472b5110111a7af3836d431d"/>
+</record_update>

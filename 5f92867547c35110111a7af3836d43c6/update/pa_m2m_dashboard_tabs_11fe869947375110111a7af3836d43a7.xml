@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="GVS_SPORT Survey">13de469947375110111a7af3836d430c</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-15 09:26:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11fe869947375110111a7af3836d43a7</sys_id>
+        <sys_name>13de469947375110111a7af3836d430c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_11fe869947375110111a7af3836d43a7</sys_update_name>
+        <tab display_value="GVS_SPORT Survey - New Tab">15fe869947375110111a7af3836d43a4</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

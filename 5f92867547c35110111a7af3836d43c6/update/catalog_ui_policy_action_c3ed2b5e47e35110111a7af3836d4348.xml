@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Report issue with the Sport Challenge application">8f7a738247a71110111a7af3836d4365</catalog_item>
+        <catalog_variable>IO:1181481a47a71110111a7af3836d4339</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-06 08:40:00</sys_created_on>
+        <sys_id>c3ed2b5e47e35110111a7af3836d4348</sys_id>
+        <sys_name>description</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c3ed2b5e47e35110111a7af3836d4348</sys_update_name>
+        <table/>
+        <ui_policy display_value="GVS_SPORT Set Description field mandatory">cf8da35e47e35110111a7af3836d4389</ui_policy>
+        <variable>description</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

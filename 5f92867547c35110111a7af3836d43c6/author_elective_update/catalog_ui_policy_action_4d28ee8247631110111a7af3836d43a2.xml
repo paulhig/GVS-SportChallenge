@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Propose a new sport challenge">1193041847275110111a7af3836d4359</catalog_item>
+        <catalog_variable>IO:3ab8223447ebd110111a7af3836d4317</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-05 08:57:09</sys_created_on>
+        <sys_id>4d28ee8247631110111a7af3836d43a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>subtype_outdoor</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_4d28ee8247631110111a7af3836d43a2</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-05 08:57:09</sys_updated_on>
+        <table/>
+        <ui_policy display_value="GVS_SPORT Show subtype related to Type">0e97a68247631110111a7af3836d4305</ui_policy>
+        <variable>subtype_outdoor</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>catalog_ui_policy_action_4d28ee8247631110111a7af3836d43a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Propose a new sport challenge">1193041847275110111a7af3836d4359</catalog_item><catalog_variable>IO:3ab8223447ebd110111a7af3836d4317</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-05 08:57:09</sys_created_on><sys_id>4d28ee8247631110111a7af3836d43a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>subtype_outdoor</sys_name><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>catalog_ui_policy_action_4d28ee8247631110111a7af3836d43a2</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-05 08:57:09</sys_updated_on><table/><ui_policy display_value="GVS_SPORT Show subtype related to Type">0e97a68247631110111a7af3836d4305</ui_policy><variable>subtype_outdoor</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1596162419</payload_hash>
+        <record_name>subtype_outdoor</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-05 08:57:09</sys_created_on>
+        <sys_id>6b48a2c247631110111a7af3836d4348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184e180de240000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-05 08:57:09</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>a348a2c2f2631110aadf54c68c8b2b48</update_guid>
+        <update_guid_history>a348a2c2f2631110aadf54c68c8b2b48:-1596162419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="subtype_outdoor">438aee8247631110111a7af3836d437f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-05 09:06:57</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4a53e676178c4b7c9731dbdfeeecc221</sys_id>
+        <sys_metadata>4d28ee8247631110111a7af3836d43a2</sys_metadata>
+        <sys_name>subtype_outdoor</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_4d28ee8247631110111a7af3836d43a2</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_4d28ee8247631110111a7af3836d43a2">6b48a2c247631110111a7af3836d4348</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

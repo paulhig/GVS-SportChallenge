@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="DELETE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups name="Sport Challenge Users">a562afb9474b5110111a7af3836d43d2</groups>
+        <link_element/>
+        <name>Issue with the Sport Challenge</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Report an issue with the Sport Challenge application</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-05 15:01:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a12bfb8247a71110111a7af3836d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issue with the Sport Challenge</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>sys_template_a12bfb8247a71110111a7af3836d43da</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-05 15:01:51</sys_updated_on>
+        <table>incident</table>
+        <template/>
+        <user display_value="Bouchra Boukhriss">b65c9f35474b5110111a7af3836d43f8</user>
+        <view/>
+    </sys_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>sys_template_a12bfb8247a71110111a7af3836d43da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template"><sys_template action="INSERT_OR_UPDATE"><active>true</active><global>false</global><group/><groups name="Sport Challenge Users">a562afb9474b5110111a7af3836d43d2</groups><link_element/><name>Issue with the Sport Challenge</name><next/><next_child/><roles/><short_description>Report an issue with the Sport Challenge application</short_description><show_on_template_bar>true</show_on_template_bar><stand_alone>false</stand_alone><sys_class_name>sys_template</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-05 15:01:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a12bfb8247a71110111a7af3836d43da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Issue with the Sport Challenge</sys_name><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>sys_template_a12bfb8247a71110111a7af3836d43da</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-05 15:01:51</sys_updated_on><table>incident</table><template/><user display_value="Bouchra Boukhriss">b65c9f35474b5110111a7af3836d43f8</user><view/></sys_template></record_update>]]></payload>
+        <payload_hash>-1589527064</payload_hash>
+        <record_name>Issue with the Sport Challenge</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-05 15:01:51</sys_created_on>
+        <sys_id>f5cb37c247a71110111a7af3836d43e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184e2cec2720000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-05 15:01:51</sys_updated_on>
+        <type>Template</type>
+        <update_guid>bdcbf34a88671110aac1d36b29bfc1a3</update_guid>
+        <update_guid_history>bdcbf34a88671110aac1d36b29bfc1a3:-1589527064</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-05 15:04:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_template">sys_template</sys_db_object>
+        <sys_id>131a8737a6ed409e8d8678115e5365c4</sys_id>
+        <sys_metadata>a12bfb8247a71110111a7af3836d43da</sys_metadata>
+        <sys_name>Issue with the Sport Challenge</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>sys_template_a12bfb8247a71110111a7af3836d43da</sys_update_name>
+        <sys_update_version display_value="sys_template_a12bfb8247a71110111a7af3836d43da">f5cb37c247a71110111a7af3836d43e4</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

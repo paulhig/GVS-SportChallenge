@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Subtype">ea593174472bd110111a7af3836d436e</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-01 08:46:46</sys_created_on>
+        <sys_id>59cefdb8472bd110111a7af3836d43ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Climbing stairs</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>question_choice_59cefdb8472bd110111a7af3836d43ff</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-01 08:46:46</sys_updated_on>
+        <text>Climbing stairs</text>
+        <value>climbing_stairs</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=59cefdb8472bd110111a7af3836d43ff"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>59cefdb8472bd110111a7af3836d43ff</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-01 08:46:46</sys_created_on>
+        <sys_id>5c9ff5b8472bd110111a7af3836d439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-01 08:46:46</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>59cefdb8472bd110111a7af3836d43ff</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-01 08:46:46</sys_created_on>
+        <sys_id>d09ff5b8472bd110111a7af3836d439c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-01 08:46:46</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>question_choice_59cefdb8472bd110111a7af3836d43ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref/><question display_value="Subtype">ea593174472bd110111a7af3836d436e</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-01 08:46:46</sys_created_on><sys_id>59cefdb8472bd110111a7af3836d43ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Climbing stairs</sys_name><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>question_choice_59cefdb8472bd110111a7af3836d43ff</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-01 08:46:46</sys_updated_on><text>Climbing stairs</text><value>climbing_stairs</value></question_choice><fx_price action="delete_multiple" query="id=59cefdb8472bd110111a7af3836d43ff"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>59cefdb8472bd110111a7af3836d43ff</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-01 08:46:46</sys_created_on><sys_id>5c9ff5b8472bd110111a7af3836d439c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-01 08:46:46</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>59cefdb8472bd110111a7af3836d43ff</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-01 08:46:46</sys_created_on><sys_id>d09ff5b8472bd110111a7af3836d439c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-01 08:46:46</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>1152028884</payload_hash>
+        <record_name>Climbing stairs</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-01 08:46:46</sys_created_on>
+        <sys_id>9c9ff5b8472bd110111a7af3836d439e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184ccddebcc0000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-01 08:46:46</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>d49ff5b83c2bd11014fbf37b6c07ae9e</update_guid>
+        <update_guid_history>d49ff5b83c2bd11014fbf37b6c07ae9e:1152028884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Climbing stairs">0a93a2fc47abd110111a7af3836d43c6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-01 11:24:11</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>8b87c5caac324c78bf6253d75d939810</sys_id>
+        <sys_metadata>59cefdb8472bd110111a7af3836d43ff</sys_metadata>
+        <sys_name>Climbing stairs</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>question_choice_59cefdb8472bd110111a7af3836d43ff</sys_update_name>
+        <sys_update_version display_value="question_choice_59cefdb8472bd110111a7af3836d43ff">9c9ff5b8472bd110111a7af3836d439e</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

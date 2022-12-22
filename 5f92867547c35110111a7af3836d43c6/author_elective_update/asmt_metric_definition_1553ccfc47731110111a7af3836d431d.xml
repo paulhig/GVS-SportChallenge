@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_definition">
+    <asmt_metric_definition action="DELETE">
+        <display>Yes</display>
+        <metric display_value="New Choice">d953ccfc47731110111a7af3836d4318</metric>
+        <normalization_input>0</normalization_input>
+        <order>0</order>
+        <selected_image/>
+        <sys_class_name>asmt_metric_definition</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-13 09:59:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1553ccfc47731110111a7af3836d431d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Yes</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_update_name>asmt_metric_definition_1553ccfc47731110111a7af3836d431d</sys_update_name>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-13 09:59:41</sys_updated_on>
+        <unselected_image/>
+        <value>0</value>
+    </asmt_metric_definition>
+    <sys_translated_text action="DELETE" query="documentkey=1553ccfc47731110111a7af3836d431d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</application>
+        <file_path/>
+        <instance_id>731c5619dbaaf0100b9d21c405961971</instance_id>
+        <instance_name>dev119581</instance_name>
+        <name>asmt_metric_definition_1553ccfc47731110111a7af3836d431d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_definition"><asmt_metric_definition action="INSERT_OR_UPDATE"><display>Yes</display><metric display_value="New Choice">d953ccfc47731110111a7af3836d4318</metric><normalization_input>0</normalization_input><order>0</order><selected_image/><sys_class_name>asmt_metric_definition</sys_class_name><sys_created_by>admin_gv_bboukhriss</sys_created_by><sys_created_on>2022-12-13 09:59:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1553ccfc47731110111a7af3836d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Yes</sys_name><sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package><sys_policy/><sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope><sys_update_name>asmt_metric_definition_1553ccfc47731110111a7af3836d431d</sys_update_name><sys_updated_by>admin_gv_bboukhriss</sys_updated_by><sys_updated_on>2022-12-13 09:59:41</sys_updated_on><unselected_image/><value>0</value></asmt_metric_definition><sys_translated_text action="delete_multiple" query="documentkey=1553ccfc47731110111a7af3836d431d"/></record_update>]]></payload>
+        <payload_hash>944665890</payload_hash>
+        <record_name>Yes</record_name>
+        <reverted_from/>
+        <source>af3cf796470bd110111a7af3836d43a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-13 09:59:41</sys_created_on>
+        <sys_id>9d53ccfc47731110111a7af3836d4322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1850aecfea50000001</sys_recorded_at>
+        <sys_updated_by>admin_gv_bboukhriss</sys_updated_by>
+        <sys_updated_on>2022-12-13 09:59:41</sys_updated_on>
+        <type>Assessment Metric Definition</type>
+        <update_guid>d553ccfc6e731110d355f6a9d96adb22</update_guid>
+        <update_guid_history>d553ccfc6e731110d355f6a9d96adb22:944665890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Yes">a58bc8f447b31110111a7af3836d4336</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin_gv_bboukhriss</sys_created_by>
+        <sys_created_on>2022-12-13 10:35:28</sys_created_on>
+        <sys_db_object display_value="" name="asmt_metric_definition">asmt_metric_definition</sys_db_object>
+        <sys_id>06087038ce7744c680283cea3125d6e1</sys_id>
+        <sys_metadata>1553ccfc47731110111a7af3836d431d</sys_metadata>
+        <sys_name>Yes</sys_name>
+        <sys_package display_value="[GVS] Sport Challenge" source="x_933239_gvs_sport">5f92867547c35110111a7af3836d43c6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="[GVS] Sport Challenge">5f92867547c35110111a7af3836d43c6</sys_scope>
+        <sys_scope_delete display_value="">11ca469d20c34249a742182289ebe249</sys_scope_delete>
+        <sys_update_name>asmt_metric_definition_1553ccfc47731110111a7af3836d431d</sys_update_name>
+        <sys_update_version display_value="asmt_metric_definition_1553ccfc47731110111a7af3836d431d">9d53ccfc47731110111a7af3836d4322</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
